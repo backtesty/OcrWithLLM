@@ -1,0 +1,36 @@
+{
+  "company_name": "Rojo Polo Paella Inc.",
+  "company_address": "Carretera Muelle 38, 37531 Ávila, Ávila",
+  "receiver_name": "Leda Villareal",
+  "receiver_address": "Cercas Bajas 68, 47300 Cádiz, Cádiz",
+  "send_invoice_to": "Leda Villareal",
+  "send_invoice_to_address": "Cercas Bajas 68, 47300 Cádiz, Cádiz",
+  "invoice_number": "ES-001",
+  "invoice_date": "29/01/2019",
+  "invoice_order": "1730/2019",
+  "invoice_due_date": "29/01/2019",
+  "invoice_total": "199.65",
+  "invoice_money": "€",
+  "iva_percentaje": "21.0",
+  "iva_amount": "34.65",
+  "invoice_items": [
+    {
+      "item_name": "Talla pequeña traje de luces en rojo",
+      "item_quantity": "1",
+      "item_price": "100.00",
+      "item_total": "100.00"
+    },
+    {
+      "item_name": "Mui grande churrolito",
+      "item_quantity": "2",
+      "item_price": "25.00",
+      "item_total": "50.00"
+    },
+    {
+      "item_name": "Equipaje de Fútbol",
+      "item_quantity": "3",
+      "item_price": "5.00",
+      "item_total": "15.00"
+    }
+  ]
+}

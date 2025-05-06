@@ -1,0 +1,352 @@
+[
+  {
+    "fecha_emision": "2025-04-29",
+    "hora_emision": "08:21",
+    "fecha_validation": "2025-04-29",
+    "hora_validation": "08:36",
+    "fecha_vencimiento": "2025-04-29",
+    "codigo_moneda": "COP",
+    "cliente_empresa_nombre": "COMERCIALIZADORA ALCALA OIL S.A.S.",
+    "cliente_empresa_nit": "NIT 901885151",
+    "cliente_empresa_direccion": "CL 120 NO. 60 30",
+    "cliente_empresa_telefono": "32229156900",
+    "cliente_empresa_ciudad": "Bogotá, D.C.",
+    "nro_factura_venta": "FE1681",
+    "nro_factura_compra": "",
+    "condiciones_pago": "0",
+    "formas_pago": "Transferencia Débito Interbancario",
+    "iva_percentaje": "19",
+    "iva_monto": "120840",
+    "total_factura": "756840",
+    "items": [
+      {
+        "item_numero": "1",
+        "item_referencia": "378",
+        "item_descripcion": "Entrenamiento deportivo para el mejoramiento de la salud",
+        "item_unidad_medida": "unidad",
+        "item_cantidad": "2",
+        "item_cargos_descuentos": "COP 0.00",
+        "item_precio_unitario": "318000",
+        "item_total": "636000"
+      }
+    ]
+  },
+  {
+    "fecha_emision": "2025-04-29",
+    "hora_emision": "21:13",
+    "fecha_validation": "2025-04-29",
+    "hora_validation": "21:13",
+    "fecha_vencimiento": "2025-04-29",
+    "codigo_moneda": "COP",
+    "cliente_empresa_nombre": "COMERCIALIZADORA ALCALA OIL S.A.S.",
+    "cliente_empresa_nit": "9017868845",
+    "cliente_empresa_direccion": "CL 120 NO. 80 30",
+    "cliente_empresa_telefono": "3229156900",
+    "cliente_empresa_ciudad": "Bogotá D.C.",
+    "nro_factura_venta": "170",
+    "nro_factura_compra": "",
+    "condiciones_pago": "Crédito",
+    "formas_pago": "",
+    "iva_percentaje": "19",
+    "iva_monto": "474.043",
+    "total_factura": "2.906.631",
+    "items": [
+      {
+        "item_numero": "1",
+        "item_referencia": "11127588418",
+        "item_descripcion": "EMPAQUE TAPA VALVULAS N20",
+        "item_unidad_medida": "Und",
+        "item_cantidad": "2",
+        "item_cargos_descuentos": "0",
+        "item_precio_unitario": "100.840",
+        "item_total": "201.680"
+      },
+      {
+        "item_numero": "2",
+        "item_referencia": "11427508971",
+        "item_descripcion": "MAPAS 4 CILINDROS",
+        "item_unidad_medida": "Und",
+        "item_cantidad": "1",
+        "item_cargos_descuentos": "0",
+        "item_precio_unitario": "50.420",
+        "item_total": "50.420"
+      },
+      {
+        "item_numero": "3",
+        "item_referencia": "17127531786",
+        "item_descripcion": "MANGUERA SUPERIOR N46",
+        "item_unidad_medida": "Und",
+        "item_cantidad": "1",
+        "item_cargos_descuentos": "0",
+        "item_precio_unitario": "147.059",
+        "item_total": "147.059"
+      },
+      {
+        "item_numero": "4",
+        "item_referencia": "11427508969",
+        "item_descripcion": "FILTRO DE ACEITE BMW E90",
+        "item_unidad_medida": "Und",
+        "item_cantidad": "1",
+        "item_cargos_descuentos": "0",
+        "item_precio_unitario": "19.328",
+        "item_total": "19.328"
+      },
+      {
+        "item_numero": "5",
+        "item_referencia": "11427525333",
+        "item_descripcion": "RADIODE DE ACEITE",
+        "item_unidad_medida": "Und",
+        "item_cantidad": "1",
+        "item_cargos_descuentos": "0",
+        "item_precio_unitario": "189.076",
+        "item_total": "189.076"
+      },
+      {
+        "item_numero": "6",
+        "item_referencia": "22138616153",
+        "item_descripcion": "IGN.COIL-DELPHI-OE / BOBINA",
+        "item_unidad_medida": "Und",
+        "item_cantidad": "1",
+        "item_cargos_descuentos": "0",
+        "item_precio_unitario": "1.312.608",
+        "item_total": "1.312.608"
+      },
+      {
+        "item_numero": "7",
+        "item_referencia": "22187186720",
+        "item_descripcion": "SOporte MOTOR F48 F 56",
+        "item_unidad_medida": "Und",
+        "item_cantidad": "1",
+        "item_cargos_descuentos": "0",
+        "item_precio_unitario": "268.908",
+        "item_total": "268.908"
+      },
+      {
+        "item_numero": "8",
+        "item_referencia": "1716739202",
+        "item_descripcion": "TAPA DEPOSITO 1,4 BAR",
+        "item_unidad_medida": "Und",
+        "item_cantidad": "1",
+        "item_cargos_descuentos": "0",
+        "item_precio_unitario": "46.216",
+        "item_total": "46.216"
+      },
+      {
+        "item_numero": "9",
+        "item_referencia": "22116857888",
+        "item_descripcion": "SOPORTE DE MOTOR HUESO",
+        "item_unidad_medida": "Und",
+        "item_cantidad": "1",
+        "item_cargos_descuentos": "0",
+        "item_precio_unitario": "163.866",
+        "item_total": "163.866"
+      },
+      {
+        "item_numero": "10",
+        "item_referencia": "111271810707",
+        "item_descripcion": "Tubo Conector N47N",
+        "item_unidad_medida": "Und",
+        "item_cantidad": "3",
+        "item_cargos_descuentos": "0",
+        "item_precio_unitario": "31.933",
+        "item_total": "95.799"
+      }
+    ]
+  },
+  {
+    "fecha_emision": "2025-04-30",
+    "hora_emision": "16:21",
+    "fecha_validation": "2025-04-30",
+    "hora_validation": "21:21",
+    "fecha_vencimiento": "2025-04-30",
+    "codigo_moneda": "COP",
+    "cliente_empresa_nombre": "COMERCIALIZADORA ALCALA OIL SAS",
+    "cliente_empresa_nit": "9018851511-1",
+    "cliente_empresa_direccion": "CALLE 120 N° 60 30",
+    "cliente_empresa_telefono": "3229516900",
+    "cliente_empresa_ciudad": "Bogotá",
+    "nro_factura_venta": "3100",
+    "nro_factura_compra": "",
+    "condiciones_pago": "Contado",
+    "formas_pago": "Consignation bancaria",
+    "iva_percentaje": "19",
+    "iva_monto": "4140048.32",
+    "total_factura": "252939776.32",
+    "items": [
+      {
+        "item_numero": "1",
+        "item_referencia": "PP",
+        "item_descripcion": "PORTABRIBA TERMOFUSION PE 100 PN 16 16",
+        "item_unidad_medida": "S7",
+        "item_cantidad": "4",
+        "item_cargos_descuentos": "0",
+        "item_precio_unitario": "3759947.00",
+        "item_total": "15039788.00"
+      },
+      {
+        "item_numero": "2",
+        "item_referencia": "FYEE",
+        "item_descripcion": "FILTRO EN YEE HIERRO DUCTIL 'B' BRIDA",
+        "item_unidad_medida": "S7",
+        "item_cantidad": "1",
+        "item_cargos_descuentos": "0",
+        "item_precio_unitario": "2510161.00",
+        "item_total": "2510161.00"
+      },
+      {
+        "item_numero": "3",
+        "item_referencia": "CPL",
+        "item_descripcion": "COLLAR POLIETILENO DERIVACION 10' X 2",
+        "item_unidad_medida": "S7",
+        "item_cantidad": "1",
+        "item_cargos_descuentos": "0",
+        "item_precio_unitario": "685210.00",
+        "item_total": "685210.00"
+      },
+      {
+        "item_numero": "4",
+        "item_referencia": "PTBR",
+        "item_descripcion": "PORTABRIBA TERMOFUSION PE 100 PN 16 20",
+        "item_unidad_medida": "S7",
+        "item_cantidad": "1",
+        "item_cargos_descuentos": "0",
+        "item_precio_unitario": "3163569.00",
+        "item_total": "3163569.00"
+      }
+    ]
+  },
+  {
+    "fecha_emision": "2025-04-30",
+    "hora_emision": "17:53",
+    "fecha_validation": "2025-05-30",
+    "hora_validation": "00:00",
+    "fecha_vencimiento": "2025-05-30",
+    "codigo_moneda": "COP",
+    "cliente_empresa_nombre": "COMERCIALIZADORA ALCALA OIL S.A.S",
+    "cliente_empresa_nit": "901885151-1",
+    "cliente_empresa_direccion": "CL 20 # 30, Bogotá, D.C., Bogot??, Colombia",
+    "cliente_empresa_telefono": "3229156900",
+    "cliente_empresa_ciudad": "Bogotá",
+    "nro_factura_venta": "VM - 2582",
+    "nro_factura_compra": "",
+    "condiciones_pago": "Contado",
+    "formas_pago": "Efectivo",
+    "iva_percentaje": "19",
+    "iva_monto": "5682.95320",
+    "total_factura": "35593.23320",
+    "items": [
+      {
+        "item_numero": "1",
+        "item_referencia": "PUCE",
+        "item_descripcion": "GAFAS DE SEGURIDAD TRANSPARENTE AJUSTABLE",
+        "item_unidad_medida": "S7",
+        "item_cantidad": "302",
+        "item_cargos_descuentos": "0,00",
+        "item_precio_unitario": "5890.00",
+        "item_total": "1778.780.00"
+      },
+      {
+        "item_numero": "2",
+        "item_referencia": "PBS",
+        "item_descripcion": "PAR DE BOTAS DE SEGURIDAD ELECTRÍCAS NEGRAS",
+        "item_unidad_medida": "S7",
+        "item_cantidad": "50",
+        "item_cargos_descuentos": "0,00",
+        "item_precio_unitario": "5745.00",
+        "item_total": "2872.500.00"
+      },
+      {
+        "item_numero": "3",
+        "item_referencia": "AEO",
+        "item_descripcion": "BOTA SEGURIDAD PUNTA DE ACERO",
+        "item_unidad_medida": "S7",
+        "item_cantidad": "50",
+        "item_cargos_descuentos": "0,00",
+        "item_precio_unitario": "4200.00",
+        "item_total": "2140.000.00"
+      },
+      {
+        "item_numero": "4",
+        "item_referencia": "OT",
+        "item_descripcion": "OVEROL PARA TRABAJO DE DRIL",
+        "item_unidad_medida": "S7",
+        "item_cantidad": "100",
+        "item_cargos_descuentos": "0,00",
+        "item_precio_unitario": "6900.00",
+        "item_total": "6950.000.00"
+      },
+      {
+        "item_numero": "5",
+        "item_referencia": "GISV",
+        "item_descripcion": "GUANTE INGENIERO SENCILLO EN VAQUETA",
+        "item_unidad_medida": "S7",
+        "item_cantidad": "200",
+        "item_cargos_descuentos": "0,00",
+        "item_precio_unitario": "5500.00",
+        "item_total": "1100.000.00"
+      },
+      {
+        "item_numero": "6",
+        "item_referencia": "GRL1",
+        "item_descripcion": "GUANTE REFORZADO LARGO",
+        "item_unidad_medida": "DPR",
+        "item_cantidad": "200",
+        "item_cargos_descuentos": "0,00",
+        "item_precio_unitario": "6000.00",
+        "item_total": "1380.000.00"
+      },
+      {
+        "item_numero": "7",
+        "item_referencia": "CPBA",
+        "item_descripcion": "CAMISA POLO BORDADA EN ALGODON BLANCA",
+        "item_unidad_medida": "S7",
+        "item_cantidad": "300",
+        "item_cargos_descuentos": "0,00",
+        "item_precio_unitario": "2799.00",
+        "item_total": "8397.000.00"
+      },
+      {
+        "item_numero": "8",
+        "item_referencia": "CPBA",
+        "item_descripcion": "CAMISA POLO BORDADA EN ALGODON NEGRA",
+        "item_unidad_medida": "S7",
+        "item_cantidad": "300",
+        "item_cargos_descuentos": "0,00",
+        "item_precio_unitario": "1764.00",
+        "item_total": "5292.000.00"
+      }
+    ]
+  },
+  {
+    "fecha_emision": "2025-04-25",
+    "hora_emision": "11:24",
+    "fecha_validation": "2025-04-25",
+    "hora_validation": "11:24",
+    "fecha_vencimiento": "2025-04-25",
+    "codigo_moneda": "COP",
+    "cliente_empresa_nombre": "COMERCIALIZADORA ALCALA OIL SAS",
+    "cliente_empresa_nit": "NIT 901885151-1",
+    "cliente_empresa_direccion": "Calle 120. CR 60-30 - BOGOTA",
+    "cliente_empresa_telefono": "",
+    "cliente_empresa_ciudad": "BOGOTA",
+    "nro_factura_venta": "TVN7507976",
+    "nro_factura_compra": "",
+    "condiciones_pago": "Efectivo",
+    "formas_pago": "Efectivo",
+    "iva_percentaje": "19",
+    "iva_monto": "38.000.000,00",
+    "total_factura": "238.000.000,00",
+    "items": [
+      {
+        "item_numero": "2926",
+        "item_referencia": "VERIFICACION DE REDES",
+        "item_descripcion": "VERIFICACION DE REDES",
+        "item_unidad_medida": "U/M",
+        "item_cantidad": "1",
+        "item_cargos_descuentos": "0",
+        "item_precio_unitario": "200.000.000,00",
+        "item_total": "200.000.000,00"
+      }
+    ]
+  }
+]
